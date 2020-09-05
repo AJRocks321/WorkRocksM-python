@@ -2,7 +2,7 @@ import random
 import math
 
 p=3.14159265
-a=float(input("give number of sides you want (believe me, only odd are gonna work)"))
+a=float(input("give number of sides you want "))
 b=float(input("also type size for graph"))
 m=2*p/a #per sector
 c1=float(input("give special point"))
